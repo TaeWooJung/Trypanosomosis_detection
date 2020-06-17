@@ -1,0 +1,8 @@
+# Do not update these directories or files
+
+trypanosome_data/
+models/
+past_logs/
+test.py
+trypanosome_data.zip
+TP_wo_pos/
