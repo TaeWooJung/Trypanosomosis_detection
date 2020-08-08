@@ -1,4 +1,4 @@
-# Trypanosomosis_detection
+# ResNet18_trypanosomosis_detection
 
 "Automatic Detection of Trypanosomosis in Thick Blood Smears Using Deep Learning" By TaeWoo Jung
 
