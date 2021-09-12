@@ -4,6 +4,7 @@
 
 Ghent University Global Campus (GUGC)
 
-Datsets can be found from the link below:
+Result was presented at IHCI 2020 and published as a conference paper.
 
-https://drive.google.com/file/d/1p25b81CtUgCMpNsKSMXljHir_r0Apate/view?usp=sharing
+Read more: 
+https://link.springer.com/chapter/10.1007%2F978-3-030-68452-5_27
